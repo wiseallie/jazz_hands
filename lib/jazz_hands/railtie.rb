@@ -6,7 +6,7 @@ require 'pry-remote'
 require 'pry-stack_explorer'
 require 'awesome_print'
 require 'jazz_hands/hirb_ext'
-require 'pry-byebug'
+#require 'pry-byebug'
 
 
 module JazzHands
